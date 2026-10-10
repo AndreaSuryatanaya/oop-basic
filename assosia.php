@@ -7,3 +7,4 @@ $book = [
 ];
 
 echo $book["title"] . PHP_EOL;
+echo "lagi Belajar";
